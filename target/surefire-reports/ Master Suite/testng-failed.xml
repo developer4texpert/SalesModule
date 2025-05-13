@@ -13,13 +13,6 @@
       </run>
     </groups>
     <classes>
-      <class name="testCases.TC_LoginTest">
-        <methods>
-          <include name="tearDown"/>
-          <include name="verify_user_login"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- testCases.TC_LoginTest -->
       <class name="testCases.TC0004_SearchByConsultant">
         <methods>
           <include name="verifySearchWithValidConsultant"/>

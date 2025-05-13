@@ -10,3 +10,21 @@
 2025-05-12 12:04:27 INFO  TC_LoginTest:29 - ******* Clicked on Login Button
 2025-05-12 12:04:27 INFO  TC_LoginTest:34 - ***** Login is passed ********
 2025-05-12 12:04:30 INFO  TC_LoginTest:46 - ***** Finished TC_LoginTest ********
+2025-05-12 16:12:24 INFO  TC_LoginTest:16 - ******* Starting TC_LoginTest ********
+2025-05-12 16:12:25 INFO  TC_LoginTest:23 - ********* Entered User Login ID *********
+2025-05-12 16:12:25 INFO  TC_LoginTest:26 - ******** Entered User Password **********
+2025-05-12 16:12:25 INFO  TC_LoginTest:29 - ******* Clicked on Login Button
+2025-05-12 16:12:25 INFO  TC_LoginTest:34 - ***** Login is passed ********
+2025-05-12 16:12:35 ERROR TC_LoginTest:41 - Test failed.....
+2025-05-12 16:13:51 INFO  TC_LoginTest:16 - ******* Starting TC_LoginTest ********
+2025-05-12 16:13:52 INFO  TC_LoginTest:23 - ********* Entered User Login ID *********
+2025-05-12 16:13:52 INFO  TC_LoginTest:26 - ******** Entered User Password **********
+2025-05-12 16:13:52 INFO  TC_LoginTest:29 - ******* Clicked on Login Button
+2025-05-12 16:13:52 INFO  TC_LoginTest:34 - ***** Login is passed ********
+2025-05-12 16:13:55 INFO  TC_LoginTest:46 - ***** Finished TC_LoginTest ********
+2025-05-12 16:22:23 INFO  TC_LoginTest:16 - ******* Starting TC_LoginTest ********
+2025-05-12 16:22:23 INFO  TC_LoginTest:23 - ********* Entered User Login ID *********
+2025-05-12 16:22:24 INFO  TC_LoginTest:26 - ******** Entered User Password **********
+2025-05-12 16:22:24 INFO  TC_LoginTest:29 - ******* Clicked on Login Button
+2025-05-12 16:22:24 INFO  TC_LoginTest:34 - ***** Login is passed ********
+2025-05-12 16:22:27 INFO  TC_LoginTest:46 - ***** Finished TC_LoginTest ********
